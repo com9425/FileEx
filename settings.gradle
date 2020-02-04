@@ -1,0 +1,2 @@
+include ':app', ':rawex', ':testex', ':sdcardex', ':sdcardimage', ':ex8-2', ':sdcardimage2'
+rootProject.name='FileEx'
